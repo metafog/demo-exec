@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://planetr.io/img/logo-github.png"></img>
+</div>
+
 # Planetr Demo: demo-exec
 Run a 'docker exec' command to execute command line applications
 
